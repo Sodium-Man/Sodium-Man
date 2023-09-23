@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+https://api.daily.dev/devcards/460b4b42b1a043f5a3a4a2d4bff33afd.png?r=wlr
+
 <!--
 **Sodium-Man/Sodium-Man** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
