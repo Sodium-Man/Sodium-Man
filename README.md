@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-https://api.daily.dev/devcards/460b4b42b1a043f5a3a4a2d4bff33afd.png?r=wlr
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Sodium-Man/Sodium-Man/blob/master/devcard.svg" width="400" alt="NamaN's Dev Card"/></a>
 
 <!--
 **Sodium-Man/Sodium-Man** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
