@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://app.daily.dev/naman007"><img src="https://github.com/Sodium-Man/Sodium-Man/blob/master/devcard.svg" width="400" alt="NamaN's Dev Card"/></a>
+<a href="https://app.daily.dev/naman007"><img src="https://github.com/Sodium-Man/Sodium-Man/blob/master/devcard.svg" width="200" alt="NamaN's Dev Card"/></a>
 
 <!--
 **Sodium-Man/Sodium-Man** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
