@@ -5,7 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sodium-man" alt="sodium-man" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/benxmxn" target="blank"><img src="https://img.shields.io/twitter/follow/benxmxn?logo=twitter&style=for-the-badge" alt="benxmxn" /></a> </p>
+<p align="left"> <a href="https://twitter.com/benxmxn" target="blank"><img src="https://img.shields.io/twitter/follow/benxmxn?logo=twitter&style=for-the-badge" alt="benxmxn" /></a> 
+                 <a href="mailto:bhalaninaman7@gmail.com">
+                 <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /> </a>
+                 <a href="https://linkedin.com/in/naman-bhalani" target="_blank">
+                 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /> </a>
+                 <a href="https://sodium-man.github.io" target="_blank">
+                 <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> </a>
+</p>
 
 - 🌱 I’m currently learning **DSA, Machine Learning and Exploring Tech World**
 
