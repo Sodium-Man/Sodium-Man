@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **bhalaninaman7@gmail.com**
 
-- ⚡ Fun fact **The first "computer bug" was an actual bug**
+- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
