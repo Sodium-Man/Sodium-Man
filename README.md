@@ -47,5 +47,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sodium-man&theme=algolia" alt="sodium-man" /></p>
 
-<a href="https://app.daily.dev/NamaN Bhalani"><img src="https://github.com/Sodium-Man/Sodium-Man/blob/main/devcard.svg" width="400" alt="NamaN's Dev Card"/></a>
+
 
