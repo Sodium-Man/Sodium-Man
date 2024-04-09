@@ -14,7 +14,7 @@
                  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> </a>
 </p>
 
-- 🌱 I’m currently learning **DSA, Machine Learning and Exploring Tech World**
+- 🌱 I’m currently learning **DSA, Data Science and Exploring Tech World**
 
 - 🤝 I’m looking for help with **Internships**
 
