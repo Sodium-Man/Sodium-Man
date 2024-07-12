@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+NamaN+Bhalani!;" /></h1>
-<h3 align="center">A passionate Web Developer and a Mumbai University Student</h3>
+<h3 align="center">A passionate Data Analyst and a Mumbai University Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sodium-man&label=Visitors&color=0e75b6&style=flat" alt="sodium-man" /> </p>
 
@@ -14,7 +14,7 @@
                  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> </a>
 </p>
 
-- 🌱 I’m currently learning **DSA, Data Science and Exploring Tech World**
+- 🌱 I’m currently learning **DSA, Machine Learning and Exploring Tech World**
 
 - 🤝 I’m looking for help with **Internships**
 
