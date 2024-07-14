@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+NamaN+Bhalani!;" /></h1>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Naman+Bhalani!;" /></h1>
 <h3 align="center">A passionate Data Analyst and a Mumbai University Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sodium-man&label=Visitors&color=0e75b6&style=flat" alt="sodium-man" /> </p>
