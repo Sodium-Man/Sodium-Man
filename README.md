@@ -37,6 +37,8 @@
 <a href="https://linkedin.com/in/naman-bhalani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naman-bhalani" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/naman.__117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naman.__117" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://leetcode.com/u/namann_bhalani" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/867px-LeetCode_logo_white_no_text.svg.png" alt="codingmickey" height="30" width="25" /></a>
+<a href="https://public.tableau.com/app/profile/naman.bhalani/vizzes" target="blank"><img align="center" src="https://i.pinimg.com/originals/86/35/88/863588a71e465cc3aa5d822c0feafea9.png" alt="namanbhalani" height="55" width=75"/></a>
+
 </p>
 </div>
 
