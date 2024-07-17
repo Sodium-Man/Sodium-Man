@@ -1,6 +1,10 @@
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+NamaN+Bhalani!;" /></h1>
 <h3 align="center">A passionate Software Developer and a Mumbai University Student</h3>
 
+<hr />
+
+<img alt="GIF" align="right" height="230" width="350" src="https://media1.tenor.com/m/pRn6wYY6tgEAAAAd/zoro.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sodium-man&label=Visitors&color=0e75b6&style=flat" alt="sodium-man" /> </p>
 
 - 🌱 I’m currently learning **DSA, Machine Learning and Exploring Tech World**
@@ -46,10 +50,10 @@
 <div align="center">
   
   <h2>🐍 My Contributions 🐍</h2>
-  The snake's eating up my contributions🐍.
-  <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 </div>
+
+<hr />
 
 <h2 align="center"> 🔥 Stats 🔥 </h2>
 
