@@ -3,17 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sodium-man&label=Visitors&color=0e75b6&style=flat" alt="sodium-man" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sodium-man" alt="sodium-man" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/benxmxn" target="blank"><img src="https://img.shields.io/twitter/follow/benxmxn?logo=twitter&style=for-the-badge" alt="benxmxn" /></a> 
-                 <a href="mailto:bhalaninaman7@gmail.com">
-                 <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /> </a>
-                 <a href="https://linkedin.com/in/naman-bhalani" target="_blank">
-                 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /> </a>
-                 <a href="https://namanbhalani.vercel.app" target="_blank">
-                 <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> </a>
-</p>
-
 - 🌱 I’m currently learning **DSA, Machine Learning and Exploring Tech World**
 
 - 🤝 I’m looking for help with **Internships**
@@ -60,9 +49,14 @@
   The snake's eating up my contributions🐍.
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
 </div>
+
+<h2 align="center"> 🔥 Stats 🔥 </h2>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sodium-man&theme=algolia" />
+</div>
+
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sodium-man&theme=algolia&show_icons=true&locale=en&layout=compact" alt="sodium-man" height="175"/>
