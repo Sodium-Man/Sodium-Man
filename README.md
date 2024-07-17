@@ -3,7 +3,7 @@
 
 <hr />
 
-<img alt="GIF" align="right" height="230" width="350" src="https://media1.tenor.com/m/pRn6wYY6tgEAAAAd/zoro.gif">
+<img alt="GIF" align="right" height="250" width="350" src="https://media1.tenor.com/m/pRn6wYY6tgEAAAAd/zoro.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sodium-man&label=Visitors&color=0e75b6&style=flat" alt="sodium-man" /> </p>
 
