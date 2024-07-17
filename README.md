@@ -26,9 +26,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/benxmxn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="benxmxn" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/naman-bhalani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naman-bhalani" height="30" width="40" /></a>
-<a href="https://instagram.com/naman.__117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naman.__117" height="30" width="40" /></a>
+<a href="https://twitter.com/benxmxn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="benxmxn" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/naman-bhalani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naman-bhalani" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/naman.__117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naman.__117" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://leetcode.com/u/namann_bhalani" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/867px-LeetCode_logo_white_no_text.svg.png" alt="codingmickey" height="30" width="25" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
